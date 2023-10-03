@@ -3,9 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush7451" alt="ayush7451" /></a> </p>
-
 - 📫 How to reach me **ayushsgivhare309@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
