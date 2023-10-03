@@ -1,4 +1,4 @@
-![log](https://github.com/Ayush7451/Ayush7451/blob/main/welcome%20to%20github.gif)
+![log](https://github.com/Ayush7451/Ayush7451/blob/main/Blue%20Purple%20Modern%20How%20To%20Manage%20And%20Motivate%20Remote%20Employees%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Shivhare</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
 
