@@ -1,3 +1,4 @@
+![log](https://github.com/Ayush7451/Ayush7451/blob/main/welcome%20to%20github.gif)
 <h1 align="center">Hi 👋, I'm Ayush Shivhare</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
 
