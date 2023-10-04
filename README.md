@@ -1,4 +1,4 @@
-![log](https://github.com/Ayush7451/Ayush7451/blob/main/2.png)
+![log](https://github.com/Ayush7451/Ayush7451/blob/main/Yellow%20and%20Blue%20Minimalist%20Digital%20Marketing%20Outdoor%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Shivhare</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
 
